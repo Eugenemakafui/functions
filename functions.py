@@ -5,3 +5,4 @@ def sum(a,b):
 def sub(a,b):
     sub = a -b
     print(f'Sub is {sub}')
+    
